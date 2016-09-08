@@ -17,9 +17,7 @@ var paths = {
 
 module.exports = {  
   entry: {
-    alert: [
-      paths.js.index
-    ]
+    alert: ['babel-polyfill', paths.js.index ]
   },
 
   output: {
