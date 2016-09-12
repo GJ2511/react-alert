@@ -1,6 +1,6 @@
 # react-alert [![npm](https://badge.fury.io/js/react-alert.svg)](http://badge.fury.io/js/react-alert) [![Build Status](https://travis-ci.org/schiehll/react-alert.svg?branch=master)](https://travis-ci.org/schiehll/react-alert) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-A simple react alert (toaster style) component
+A simple react alert (toaster style) component. Cloned and Added new functionality for support for ES6
 
 ## Demo
 
@@ -20,7 +20,7 @@ To use it, you have to import the `AlertContainer` component, like this:
 
 ```js
 import React from 'react';
-import AlertContainer from 'react-alert';
+import AlertContainer from 'react-alert-es6';
 
 export default class App extends React.Component {
   constructor(props){

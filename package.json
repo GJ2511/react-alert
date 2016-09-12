@@ -1,12 +1,12 @@
 {
-  "name": "react-alert",
+  "name": "react-alert-es6",
   "description": "A simple react alert component",
-  "version": "1.0.14",
-  "author": "Reinaldo Schiehll <rn.schiehll@gmail.com>",
+  "version": "1.0.0",
+  "author": "Gaurav Joshi <joshigaurav2511@gmail.com>",
   "main": "./dist/alert.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/schiehll/react-alert.git"
+    "url": "https://github.com/GJ2511/react-alert"
   },
   "keywords": [
     "react",
@@ -14,7 +14,8 @@
     "react-alert",
     "toaster",
     "react-toaster",
-    "react-component"
+    "react-component",
+    "react-alert-es6"
   ],
   "dependencies": {
     "babel-polyfill": "^6.13.0",
